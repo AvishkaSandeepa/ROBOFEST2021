@@ -5,8 +5,9 @@ We have to implement task specified robot using [CoppeliaSim EDU](https://www.co
 
 > We are consist of 5 Electronic and Telecommunication Engineering undergraduates.
 
-1. Pabasara Dilshan
-2. Nimesh Kaushal
-3. Avishka Sandeepa
-4. [Lakindu Nilakshana](https://github.com/LakinduNilakshana)
-5. [Tharushi Pinimuthu](https://github.com/TharushiPinimuthu)
+
+> Other team Members ===>
+1. [Pabasara Dilshan](https://github.com/PabasaraDilshan)
+2. [Nimesh Kavshal](https://github.com/NimeshKavshal)
+3. [Lakindu Nilakshana](https://github.com/LakinduNilakshana)
+4. [Tharushi Pinimuthu](https://github.com/TharushiPinimuthu)
